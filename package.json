@@ -1,0 +1,27 @@
+{
+  "name": "ilkbyte",
+  "version": "1.0.0",
+  "description": "Ilkbyte dökümantasyonundan yola çıkarak hazırlanan paket sayesinde işlerinizi kolaylaştırabilirsiniz.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ilkbyte",
+    "sunucu",
+    "server"
+  ],
+  "author": "emresengul",
+  "repository": {
+    "type": "git",
+    "url":"git+https://github.com/emresengul/ilkbyte.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emresengul/ilkbyte/issues"
+  },
+  "homepage": "https://github.com/emresengul/ilkbyte#readme",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
